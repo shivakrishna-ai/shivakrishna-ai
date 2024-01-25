@@ -1,16 +1,16 @@
-### Hi there 👋
+# Hello, I'm Shivakrishna Chilukaamri 👋
 
-<!--
-**shivakrishna-ai/shivakrishna-ai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Passionate software engineer with 7+ years of experience in .NET, C#, Angular, and Azure. Skilled in microservices architecture, CI/CD, and SQL. Currently working as Lead Engineer at Keka HR, Hyderabad.
 
-Here are some ideas to get you started:
+## 🚀 Skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Languages:** C#, JavaScript, HTML, CSS
+- **Frameworks:** .NET Core, Angular
+- **Databases:** MS SQL
+- **Cloud:** Azure
+- **Other:** Microservices, CI/CD, PWA
+
+## 🌐 Connect with Me
+
+[LinkedIn] https://www.linkedin.com/in/shivakrishnach/
+
